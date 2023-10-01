@@ -54,8 +54,6 @@ High performing data science professional :bar_chart: with over 2 years of exper
 
 [**Optimizing Snake Gameplay with Deep Reinforcement Learning**](https://github.com/billodalroy/Snake-Game-Deep-Reinforcement-Learning)
 
-https://github.com/billodalroy/Snake-Game-Deep-Reinforcement-Learning
-
 - Python, PyTorch, Gymnasium
 
 - Developed deep neural network agent using PyTorch to play classic Snake game, leveraging algorithms including DQN, Double DQN, and A2C to optimize policy. Achieved score 10x higher than baseline agent. :snake::robot::trophy:
