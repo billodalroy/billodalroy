@@ -17,46 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me :raising_hand_man:
 
-High performing data professional :bar_chart: with over 2 years of experience in building and optimizing data pipelines :oil_drum:. Proven track record :trophy: in ETL processes, data warehousing, and developing robust and scalable data architectures :factory:. Specialized in communicating complex technical data concepts :speech_balloon: and translating data analytics into business value :dollar: across diverse stakeholders. 
-
-## Skills :muscle:
-
-**Technical Skills**
-
-- ETL Pipelines :oil_drum:
-- DWBI :chart_with_upwards_trend:
-- CI/CD :repeat:
-- Data Modelling :busts_in_silhouette:  
-- Feature engineering :wrench:
-- Machine Learning models :robot:
-- Supervised and Unsupervised Algorithms : dividend_sign:
-- Model Deployment :rocket:
-- Algorithmic optimization strategies :zap:
-- Predictive Analysis :crystal_ball:
-- Hypothesis testing :microscope:
-- A/B Testing :a: :b:
-- Agile Methodologies :dash:
-
-**Tools**
-
-- Python :snake: (OOP, NumPy, pandas, matplotlib, scikit-learn, PyTorch, FastAPI, pytest, transformers)
-- SQL (MS-SQL Server, Big Query, MySQL, Druid) :card_file_box:
-- NoSQL (MongoDB, Firestore)
-- Apache Spark :fire: 
-- Apache Airflow :cloud_with_wind:
-- Git :octocat:
-- Oracle Cloud :cloud:
-- Azure Cloud :cloud:	
-- Jira :beetle:
-- Microsoft Power BI :bar_chart:	
-
-**Soft Skills**
-
-- Fast Learner :runner:
-- Entrepreneurial mindset :moneybag:
-- Strong communication :loudspeaker:
-- Attention-to-detail :mag:
-- Teamwork abilities :mans_walking:
+High performing data science professional :bar_chart: with over 2 years of experience in the analytics and data science domains Proven track record in statistical modeling, machine learning and developing production-ready :factory: ML models. Specialized in communicating complex technical concepts and translating analytics into business value :dollar: across diverse stakeholders.
 
 ## Experience :briefcase:
 
@@ -84,18 +45,6 @@ High performing data professional :bar_chart: with over 2 years of experience in
 
 - Pioneered implementation of advanced analytics and business intelligence tools. Enabled data-informed decision making for product launches, customer experience initiatives, and performance management through interactive dashboards. :bar_chart::tada:
 
-## Education :mortar_board:
-
-**University at Buffalo, The State University of New York**
-
-- Master of Sciences, Data Science (2022 - 2023)
-- GPA: 3.8
-
-**Heritage Institute of Technology** 
-
-- Bachelor of Technology, Engineering (2017 - 2021)
-- GPA: 3.6
-
 ## Certifications :medal_sports:
 
 - AZ-900: Azure Cloud Fundamentals
@@ -103,7 +52,9 @@ High performing data professional :bar_chart: with over 2 years of experience in
 
 ## Projects :computer:
 
-**Optimizing Snake Gameplay with Deep Reinforcement Learning**
+[**Optimizing Snake Gameplay with Deep Reinforcement Learning**](https://github.com/billodalroy/Snake-Game-Deep-Reinforcement-Learning)
+
+https://github.com/billodalroy/Snake-Game-Deep-Reinforcement-Learning
 
 - Python, PyTorch, Gymnasium
 
