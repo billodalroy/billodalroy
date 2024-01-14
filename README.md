@@ -23,27 +23,9 @@ High performing data science professional :bar_chart: with over 2 years of exper
 
 **Data Science Intern** @ Lowes Companies Inc :house:
 
-- Developed a custom feature selection algorithm using entropy techniques to optimize retail store clustering, reducing dimensionality for high-volume multivariate store data :bar_chart::chart_with_downwards_trend:
+**Data and Analytics Consultant** @ Protiviti India Member Firm :office:	
 
-- Successfully integrated the algorithm into the data science toolset by leveraging OOP principles and MVC architecture, increasing store clustering accuracy by 15% and improving efficiency for assortment planning analytics :chart_with_upwards_trend::rocket:
-
-- Containerized the application using Docker for portability across environments, and enabled CI/CD pipelines for automated testing and deployment to Kubernetes :whale::repeat:
-
-**Data Engineer** @ Protiviti India Member Firm :office:	
-
-- Designed and built scalable ETL pipelines using Apache Spark and Airflow, enabling processing of over 100 million records daily from diverse sources. Increased performance by 45% through optimization techniques like partitioning and caching. :oil_drum::fire::chart_with_upwards_trend:
-
-- Developed automated Airflow workflows for batch processing. Established testing, monitoring, and failure recovery, improving robustness. Evangelized agile practices including user story mapping, CI/CD, and sprint planning. :cloud_with_wind::repeat::chart_with_upwards_trend:
-
-- Constructed auditing and analytics datasets by writing over 50 Python scripts to transform raw data. Enabled flexible reporting and dashboards, accelerating delivery of insights.	:snake::bar_chart:
-
-**Data Analyst** @ Stones2Milestones Edu Services :school:
-
-- Collaborated with cross-functional teams to identify and prioritize business questions that could be answered through data analysis. Defined 50+ KPIs to quantify sales performance, guiding analytics to high-impact areas. :bar_chart::chart_with_upwards_trend:
-
-- Utilized data-driven approach to identify opportunities to expand to international markets. Built models forecasting demand in new regions, leading to a data-backed expansion strategy that drove 20% month-over-month revenue growth. :globe_with_meridians::crystal_ball::chart_with_upwards_trend:
-
-- Pioneered implementation of advanced analytics and business intelligence tools. Enabled data-informed decision making for product launches, customer experience initiatives, and performance management through interactive dashboards. :bar_chart::tada:
+**Data Science Researcher** @ Stones2Milestones Edu Services :school:
 
 ## Certifications :medal_sports:
 
