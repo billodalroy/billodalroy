@@ -17,13 +17,15 @@ Here are some ideas to get you started:
 
 ## About Me :raising_hand_man:
 
-High performing data science professional :bar_chart: with over 2 years of experience in the analytics and data science domains. Proven track record in statistical modeling, machine learning and developing production-ready :factory: ML models. Specialized in communicating complex technical concepts and translating analytics into business value :dollar: across diverse stakeholders.
+High performing data science professional :bar_chart: with over 3 years of experience in the analytics and data science domains. Proven track record in statistical modeling, machine learning and developing production-ready :factory: ML models. Specialized in communicating complex technical concepts and translating analytics into business value :dollar: across diverse stakeholders.
 
 ## Experience :briefcase:
 
+**Data Scienctist** @ Lowes Companies Inc :house:
+
 **Data Science Intern** @ Lowes Companies Inc :house:
 
-**Data and Analytics Consultant** @ Protiviti India Member Firm :office:	
+**Data Scientist - III** @ Protiviti India Member Firm :office:	
 
 **Data Science Researcher** @ Stones2Milestones Edu Services :school:
 
